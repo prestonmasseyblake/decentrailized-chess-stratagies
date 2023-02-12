@@ -1,0 +1,8 @@
+info on how to run 
+superuser:  
+username: admin 
+email: admin@example.com
+password: admin
+
+
+packages the api is using
