@@ -31,7 +31,6 @@ class chessEndPoint(APIView):
     #returns the current state of the board
     def get(self, request, *args, **kwargs):
         print("gewa")
-        
         text = print(chessGame)
         print(type(chessGame))
         # print(text)
